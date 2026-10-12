@@ -39,7 +39,8 @@ This section includes projects focused on image processing, computer vision algo
 - ResNet-based architectures
 
 Repository:
-[Computer Vision Projects]([LINK](https://github.com/niusha-yaghini/computer_vision))
+[Computer Vision Projects]
+[https://github.com/niusha-yaghini/computer_vision]
 
 
 ---
@@ -59,7 +60,7 @@ This section contains projects related to text processing, language models, and 
 - LLM fine-tuning using LoRA
 
 Repository:
-[NLP Projects]([LINK](https://github.com/niusha-yaghini/NLP_Projects))
+[NLP Projects][https://github.com/niusha-yaghini/NLP_Projects]
 
 
 ---
@@ -75,7 +76,7 @@ This project focuses on building information retrieval systems and text-based se
 - Topic classification using n-gram features
 
 Repository:
-[Information Retrieval Project]([LINK](https://github.com/niusha-yaghini/news-crawler))
+[Information Retrieval Project][https://github.com/niusha-yaghini/NLP_Projects]
 
 
 ---
@@ -94,7 +95,7 @@ This section includes projects related to data analysis, predictive modeling, an
 - Predictive modeling
 
 Repository:
-[Data Science Projects]([LINK](https://github.com/niusha-yaghini/Data_Science))
+[Data Science Projects][https://github.com/niusha-yaghini/Data_Science]
 
 
 ---
