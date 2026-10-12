@@ -21,7 +21,7 @@ This section includes projects related to classical AI algorithms, machine learn
 
 Repository:
 [Artificial Intelligence Projects]([[LINK](https://github.com/niusha-yaghini/Artificial_Intelligence_Course.git)])
-
+[https://github.com/niusha-yaghini/Artificial_Intelligence_Course.git]
 
 ---
 
