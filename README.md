@@ -20,7 +20,7 @@ This section includes projects related to classical AI algorithms, machine learn
 - ML engineering workflows
 
 Repository:
-[Artificial Intelligence Projects]([LINK](https://github.com/niusha-yaghini/Artificial_Intelligence_Course))
+[Artificial Intelligence Projects]([[LINK](https://github.com/niusha-yaghini/Artificial_Intelligence_Course.git)])
 
 
 ---
